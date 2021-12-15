@@ -237,7 +237,7 @@ _global_script_classes=[ {
 "base": "Reference",
 "class": "SP",
 "language": "GDScript",
-"path": "res://new_card_game/SP.gd"
+"path": "res://src/new_card_game/SP.gd"
 }, {
 "base": "ScriptObject",
 "class": "ScriptAlter",
