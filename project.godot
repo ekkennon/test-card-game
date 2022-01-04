@@ -32,7 +32,7 @@ _global_script_classes=[ {
 "base": "Reference",
 "class": "CFConst",
 "language": "GDScript",
-"path": "res://src/custom/CFConst.gd"
+"path": "res://src/new_card_game/CFConst.gd"
 }, {
 "base": "Node",
 "class": "CFControl",
@@ -112,7 +112,7 @@ _global_script_classes=[ {
 "base": "Reference",
 "class": "CardConfig",
 "language": "GDScript",
-"path": "res://src/custom/cards/CardConfig.gd"
+"path": "res://src/new_card_game/cards/CardConfig.gd"
 }, {
 "base": "Area2D",
 "class": "CardContainer",
@@ -147,7 +147,7 @@ _global_script_classes=[ {
 "base": "Reference",
 "class": "CustomScripts",
 "language": "GDScript",
-"path": "res://src/custom/cards/CustomScripts.gd"
+"path": "res://src/new_card_game/cards/CustomScripts.gd"
 }, {
 "base": "HBoxContainer",
 "class": "DBDeckCardObject",
@@ -369,7 +369,7 @@ _global_script_class_icons={
 [application]
 
 config/name="card game test"
-run/main_scene="res://src/core/Main.tscn"
+run/main_scene="res://src/new_card_game/Main.tscn"
 config/icon="res://icon.png"
 
 [autoload]
