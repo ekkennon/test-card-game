@@ -369,7 +369,7 @@ _global_script_class_icons={
 [application]
 
 config/name="card game test"
-run/main_scene="res://src/new_card_game/Main.tscn"
+run/main_scene="res://src/custom/CGFMain.tscn"
 config/icon="res://icon.png"
 
 [autoload]
